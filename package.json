@@ -10,7 +10,7 @@
     "@ton/core": "^0.63.1",
     "@ton/sandbox": "^0.15.0",
     "@ton/test-utils": "^0.4.2",
-    "@types/jest": "^29.5.11",
+    "@types/jest": "^30.0.0",
     "jest": "^30.2.0",
     "ts-jest": "^29.1.1"
   }
