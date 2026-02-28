@@ -1,4 +1,28 @@
-# Fungible, Non-Fungible, Semi-Fungible Tokens Smart Contracts
+# Old Fungible, Non-Fungible, Semi-Fungible Tokens Smart Contracts
+
+> ⚠️ This is an outdated repository with the first versions of Jettons and NFTs.
+> 
+> Current versions of tokens:
+>
+> Jetton - https://github.com/ton-blockchain/jetton-contract
+>
+> NFT - https://github.com/ton-blockchain/nft-contract
+
+## Structure
+
+ft/ - Jetton (Fungible Token) smart contract and build.
+
+misc/ - forward-fee-calc.fc
+
+nft/ - NFT smart contract and build.
+
+sandbox_tests/ - Jetton Sandbox (Blueprint) tests.
+
+scripts/ - Jetton Sandbox (Blueprint) deploy scripts.
+
+wrappers/ - Jetton Sandbox (Blueprint) JS wrappers.
+
+stdlib.fc
 
 ## NFT (Non-Fungible tokens) in `nft` folder
 
